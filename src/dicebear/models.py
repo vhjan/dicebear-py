@@ -289,7 +289,7 @@ class DOptions(dict):
         randomizeIds: bool = False,
     ):
         """
-        Go to https://github.com/vhjan/dicebear#base-options to see all info (important for minimum and maximum values for each option!)
+        Go to https://github.com/vhjan/dicebear-py#base-options to see all info (important for minimum and maximum values for each option!)
         """
         d = {
             "flip": flip,

@@ -9,9 +9,9 @@ description: >-
 
 <figure><img src="https://img.shields.io/pypi/v/dicebear" alt="Version"><figcaption><p><strong>CURRENT VERSION</strong></p></figcaption></figure>
 
-![Total Downloads](https://static.pepy.tech/badge/dicebear?period=total\&units=international_system\&left_color=grey\&right_color=blue\&left_text=Downloads) ![Downloads / Month](https://static.pepy.tech/badge/dicebear/month?period=month\&units=international_system\&left_color=grey\&right_color=orange\&left_text=Downloads/Month) ![License](https://img.shields.io/github/license/vhjan/dicebear)
+![Total Downloads](https://static.pepy.tech/badge/dicebear?period=total\&units=international_system\&left_color=grey\&right_color=blue\&left_text=Downloads) ![Downloads / Month](https://static.pepy.tech/badge/dicebear/month?period=month\&units=international_system\&left_color=grey\&right_color=orange\&left_text=Downloads/Month) ![License](https://img.shields.io/github/license/vhjan/dicebear-py)
 
-![Supported Python Versions](https://img.shields.io/pypi/pyversions/dicebear) ![GitHub Issues](https://img.shields.io/github/issues/vhjan/dicebear) ![Maintenance](https://img.shields.io/maintenance/yes/2026) ![Version Status](https://img.shields.io/pypi/status/dicebear)
+![Supported Python Versions](https://img.shields.io/pypi/pyversions/dicebear) ![GitHub Issues](https://img.shields.io/github/issues/vhjan/dicebear-py) ![Maintenance](https://img.shields.io/maintenance/yes/2026) ![Version Status](https://img.shields.io/pypi/status/dicebear)
 
 {% hint style="info" %}
 Dicebear's Python package is <mark style="color:$success;background-color:$success;">up-to-date</mark> with Dicebear's API!
@@ -24,7 +24,7 @@ Always make sure to update to the latest version to avoid experiencing unresolve
 ## Introduction
 
 [`dicebear`](https://pypi.org/project/dicebear/) is an API wrapper for [https://dicebear.com](https://dicebear.com). Using this wrapper you can get custom avatars for your program.\
-For an example go to [`examples/dicebear.py`](https://github.com/vhjan/dicebear/tree/main/examples).
+For an example go to [`examples/dicebear.py`](https://github.com/vhjan/dicebear-py/tree/main/examples).
 
 ## Other languages
 
@@ -35,7 +35,7 @@ If you want to use Dicebear avatars but don't use Python, you can use the [diceb
 * Official Dicebear: [https://dicebear.com/](https://dicebear.com/)
 * PyPI: [https://pypi.org/project/dicebear/](https://pypi.org/project/dicebear/)
 * Docs: [https://dicebear.vhjan.me/](https://dicebear.vhjan.me/)
-* GitHub: [https://github.com/vhjan/dicebear](https://github.com/vhjan/dicebear)
+* GitHub: [https://github.com/vhjan/dicebear-py](https://github.com/vhjan/dicebear-py)
 * Dicebear Python CLI: [https://github.com/vhjan/dicebear-cli](https://github.com/vhjan/dicebear-cli)
 * Golang package: [https://github.com/vhjan/dicebear-go](https://github.com/vhjan/dicebear-go)
 * JS/TS library: [https://github.com/dicebear/dicebear](https://github.com/dicebear/dicebear)

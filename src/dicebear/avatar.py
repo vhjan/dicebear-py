@@ -74,13 +74,13 @@ class DAvatar:
         """
         Create a new avatar object.
 
-        :param style: class `dicebear.models.DStyle` :: the style of avatar you want to create; check the whole list at https://github.com/vhjan/dicebear#styles
+        :param style: class `dicebear.models.DStyle` :: the style of avatar you want to create; check the whole list at https://github.com/vhjan/dicebear-py#styles
         :type style: dicebear.models.DStyle
         :param seed: class `str` :: the seed for the avatar; the avatar will be edited according to the seed
         :type seed: str
-        :param options: class `DOptions` :: the options for the avatar; check the whole list at https://github.com/vhjan/dicebear#base-options
+        :param options: class `DOptions` :: the options for the avatar; check the whole list at https://github.com/vhjan/dicebear-py#base-options
         :type options: dicebear.models.DOptions
-        :param custom: `class: dict` :: customisations for the specified avatar style; see all specific options at https://github.com/vhjan/dicebear#specific-style-options
+        :param custom: `class: dict` :: customisations for the specified avatar style; see all specific options at https://github.com/vhjan/dicebear-py#specific-style-options
         :type custom: dict
         :param save_to_cache: `class: bool` :: whether to cache the avatar for quicker future access or manipulation, as well as reducing the amount of API calls
         :type custom: bool

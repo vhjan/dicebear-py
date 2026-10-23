@@ -23553,11 +23553,11 @@
       "language": "en-US",
       "versionControlProvenance": [
         {
-          "repositoryUri": "https://github.com/vhjan/dicebear.git",
+          "repositoryUri": "https://github.com/vhjan/dicebear-py.git",
           "revisionId": "00f96b53b2ada00a91cef7979532898cfc0c15ca",
           "branch": "main",
           "properties": {
-            "repoUrl": "https://github.com/vhjan/dicebear.git",
+            "repoUrl": "https://github.com/vhjan/dicebear-py.git",
             "lastAuthorName": "vhjan",
             "vcsType": "Git",
             "lastAuthorEmail": "jvh.discord@gmail.com"

@@ -53,8 +53,8 @@ classifiers = [
 [project.urls]
 Homepage = "https://dicebear.vhjan.me/"
 Documentation = "https://dicebear.vhjan.me/"
-Source = "https://github.com/vhjan/dicebear"
-Tracker = "https://github.com/vhjan/dicebear/issues"
+Source = "https://github.com/vhjan/dicebear-py"
+Tracker = "https://github.com/vhjan/dicebear-py/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]
