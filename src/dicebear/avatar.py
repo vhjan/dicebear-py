@@ -1,6 +1,6 @@
 # MIT License
 #
-# Copyright (c) 2026 jvherck (on GitHub)
+# Copyright (c) 2026 vhjan (on GitHub)
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -74,13 +74,13 @@ class DAvatar:
         """
         Create a new avatar object.
 
-        :param style: class `dicebear.models.DStyle` :: the style of avatar you want to create; check the whole list at https://github.com/jvherck/dicebear#styles
+        :param style: class `dicebear.models.DStyle` :: the style of avatar you want to create; check the whole list at https://github.com/vhjan/dicebear#styles
         :type style: dicebear.models.DStyle
         :param seed: class `str` :: the seed for the avatar; the avatar will be edited according to the seed
         :type seed: str
-        :param options: class `DOptions` :: the options for the avatar; check the whole list at https://github.com/jvherck/dicebear#base-options
+        :param options: class `DOptions` :: the options for the avatar; check the whole list at https://github.com/vhjan/dicebear#base-options
         :type options: dicebear.models.DOptions
-        :param custom: `class: dict` :: customisations for the specified avatar style; see all specific options at https://github.com/jvherck/dicebear#specific-style-options
+        :param custom: `class: dict` :: customisations for the specified avatar style; see all specific options at https://github.com/vhjan/dicebear#specific-style-options
         :type custom: dict
         :param save_to_cache: `class: bool` :: whether to cache the avatar for quicker future access or manipulation, as well as reducing the amount of API calls
         :type custom: bool

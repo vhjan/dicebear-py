@@ -2,29 +2,29 @@
 ![Downloads](https://static.pepy.tech/personalized-badge/dicebear?period=total&units=international_system&left_color=grey&right_color=blue&left_text=Downloads)
 ![Downloads](https://static.pepy.tech/personalized-badge/dicebear?period=month&units=international_system&left_color=grey&right_color=orange&left_text=Downloads/Month) \
 ![PyPI](https://img.shields.io/pypi/v/dicebear)
-![GitHub issues](https://img.shields.io/github/issues/jvherck/dicebear)
+![GitHub issues](https://img.shields.io/github/issues/vhjan/dicebear)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/dicebear)
-![GitHub](https://img.shields.io/github/license/jvherck/dicebear)
-![Maintenance](https://img.shields.io/maintenance/yes/2025)
+![GitHub](https://img.shields.io/github/license/vhjan/dicebear)
+![Maintenance](https://img.shields.io/maintenance/yes/2026)
 ![PyPI - Status](https://img.shields.io/pypi/status/dicebear)
 
 Always keep an eye on https://dicebear.vhjan.me/ for updates and warnings about this packages!
 
 [`dicebear`](https://pypi.org/project/dicebear/) is a Python API wrapper for https://dicebear.com. Using this wrapper you can get custom avatars for your program. \
-For an example go to [`examples/dicebear.py`](https://github.com/jvherck/dicebear/tree/main/examples).
+For an example go to [`examples/dicebear.py`](https://github.com/vhjan/dicebear/tree/main/examples).
 
 ## Other languages
 If you want to use Dicebear avatars but don't use Python, you can use the 
-[dicebear Golang package](https://github.com/jvherck/dicebear-go) or the 
+[dicebear Golang package](https://github.com/vhjan/dicebear-go) or the 
 [official JS/TS package](https://github.com/dicebear/dicebear).
 
 ## Useful links  
 * Official Dicebear: [https://dicebear.com/](https://dicebear.com/)
 * PyPI: [https://pypi.org/project/dicebear/](https://pypi.org/project/dicebear/)
 * Docs: [https://dicebear.vhjan.me/](https://dicebear.vhjan.me/)  
-* GitHub: [https://github.com/jvherck/dicebear](https://github.com/jvherck/dicebear)  
-* Dicebear Python CLI: [https://github.com/jvherck/dicebear-cli](https://github.com/jvherck/dicebear-cli)  
-* Golang package: [https://github.com/jvherck/dicebear-go](https://github.com/jvherck/dicebear-go)
+* GitHub: [https://github.com/vhjan/dicebear](https://github.com/vhjan/dicebear)  
+* Dicebear Python CLI: [https://github.com/vhjan/dicebear-cli](https://github.com/vhjan/dicebear-cli)  
+* Golang package: [https://github.com/vhjan/dicebear-go](https://github.com/vhjan/dicebear-go)
 * JS/TS library: [https://github.com/dicebear/dicebear](https://github.com/dicebear/dicebear)
 
 ## Changelog
@@ -105,7 +105,7 @@ Dicebear has a CLI package that uses Python to generate avatars quickly.
 You can't customize each avatar, to do that you'll need to use the Python module.
 
 To use the CLI run `pip install dicebear-cli` in a terminal. 
-Documentation can be found here: https://github.com/jvherck/dicebear-cli.
+Documentation can be found here: https://github.com/vhjan/dicebear-cli.
 
 ## Customization
 Customize your avatars with these possibilities.  

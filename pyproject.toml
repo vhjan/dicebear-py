@@ -9,10 +9,10 @@ description = "A python wrapper for DiceBear's avatar generating API."
 readme = "README.md"
 license = { text = "MIT" }
 authors = [
-    { name = "jvherck", email = "jan@vhjan.me" }
+    { name = "vhjan", email = "jan@vhjan.me" }
 ]
 maintainers = [
-    { name = "jvherck", email = "jan@vhjan.me" }
+    { name = "vhjan", email = "jan@vhjan.me" }
 ]
 requires-python = ">=3.10"
 dependencies = ["requests", "urllib3"]
@@ -53,8 +53,8 @@ classifiers = [
 [project.urls]
 Homepage = "https://dicebear.vhjan.me/"
 Documentation = "https://dicebear.vhjan.me/"
-Source = "https://github.com/jvherck/dicebear"
-Tracker = "https://github.com/jvherck/dicebear/issues"
+Source = "https://github.com/vhjan/dicebear"
+Tracker = "https://github.com/vhjan/dicebear/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]

@@ -1,6 +1,6 @@
 # MIT License
 #
-# Copyright (c) 2026 jvherck (on GitHub)
+# Copyright (c) 2026 vhjan (on GitHub)
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -289,7 +289,7 @@ class DOptions(dict):
         randomizeIds: bool = False,
     ):
         """
-        Go to https://github.com/jvherck/dicebear#base-options to see all info (important for minimum and maximum values for each option!)
+        Go to https://github.com/vhjan/dicebear#base-options to see all info (important for minimum and maximum values for each option!)
         """
         d = {
             "flip": flip,

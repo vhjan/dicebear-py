@@ -3,7 +3,7 @@
 To find the full documentation go to [https://dicebear.vhjan.me/](https://dicebear.vhjan.me/)\
 You can click certain `blocks` to go to its documentation page.\
 \
-If you encounter any bugs or errors, please open an [issue](https://github.com/jvherck/dicebear/issues).
+If you encounter any bugs or errors, please open an [issue](https://github.com/vhjan/dicebear/issues).
 
 ***
 

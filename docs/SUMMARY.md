@@ -18,7 +18,7 @@
 
 ## Extra
 
-* [Issues](https://github.com/jvherck/dicebear-py/issues)
+* [Issues](https://github.com/vhjan/dicebear-py/issues)
 * [Contact me](mailto:jan@vhjan.me)
 
 ***
